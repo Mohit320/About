@@ -17,7 +17,7 @@ DETAILS OF TEAM MEMBERS
 - Link of Git Repository : https://github.com/JATIN2929
 
 # 3.  Mohit Tiwari
-- E-mail : dk9988570526@gmail.com
+- E-mail : tiwari.mohit221@gmail.com
 - Branch : Computer Science and Engineering
 - CRN/URN : 1915051/1905021
 - Area of Interest : Hacking
