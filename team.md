@@ -6,7 +6,7 @@ DETAILS OF TEAM MEMBERS
 - E-mail : rahul4124kumar@gmail.com
 - Branch : Computer Science and Engineering
 - CRN/URN : 1915061/1905035
-- Area of Interest : Web Development, 
+- Area of Interest : Web Development
 - Link of Git Repository : https://github.com/Rahul8226
 
 # 2.  Jatin Aggarwal
