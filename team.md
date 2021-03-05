@@ -13,19 +13,19 @@ DETAILS OF TEAM MEMBERS
 - E-mail : jatinaggarwal4045@gmail.com
 - Branch : Computer Science and Engineering
 - CRN/URN : 1915041/1905010
-- Area of Interest : Web Development
+- Area of Interest : Web Development, Ethical Hacking
 - Link of Git Repository : https://github.com/JATIN2929
 
 # 3.  Mohit Tiwari
 - E-mail : tiwari.mohit221@gmail.com
 - Branch : Computer Science and Engineering
 - CRN/URN : 1915051/1905021
-- Area of Interest : Hacking
+- Area of Interest : Ethical Hacking
 - Link of Git Repository : https://github.com/Mohit320
 
 # 4.  Nitin Goyal
 - E-mail : nitingoyal8650@gmail.com
 - Branch : Computer Science and Engineering
 - CRN/URN : 1915055/1905026
-- Area of Interest : Hacking
-- Link of Git Repository : https://github.com/1905055
+- Area of Interest : Web Developer
+- Link of Git Repository : https://github.com/1915055
