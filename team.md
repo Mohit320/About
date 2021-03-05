@@ -24,7 +24,7 @@ DETAILS OF TEAM MEMBERS
 - Link of Git Repository : https://github.com/Mohit320
 
 # 4.  Nitin Goyal
-- E-mail : dk9988570526@gmail.com
+- E-mail : nitingoyal8650@gmail.com
 - Branch : Computer Science and Engineering
 - CRN/URN : 1915055/1905026
 - Area of Interest : Hacking
